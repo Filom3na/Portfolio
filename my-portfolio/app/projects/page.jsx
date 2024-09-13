@@ -15,7 +15,7 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 
 const projects = [{
   num: "01",
-  categoty: "1 week - Solo",
+  category: "1 week - Solo",
   title: "Jungle Snake",
   description: "A responsive web-based reimagining of the classic Snake game, featuring a jungle theme, dynamic scoring, and adaptive difficulty. This project showcases interactive gameplay, sound integration, and responsive design for both desktop and mobile platforms.",
   stack: [{ name: "HTML 5" }, { name: "CSS 3" }, { name: "Javascript" }],
@@ -25,7 +25,7 @@ const projects = [{
 },
 {
   num: "02",
-  categoty: "48 hours - Group(2 people)",
+  category: "48 hours - Group(2 people)",
   title: "CineTrack",
   description: "CineTrack is a dynamic web application that enables users to explore, categorize, and track their movie preferences, offering features to mark favorites and watched films while providing genre-based filtering.",
   stack: [
